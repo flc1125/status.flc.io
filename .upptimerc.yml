@@ -5,7 +5,7 @@ repo: status.flc.io # The name of this repository
 sites:
   - name: Flc Blog
     url: https://flc.io
-  - name: Flc Doc
+  - name: Flc Docs
     url: https://docs.flc.io
 
 status-website:
@@ -14,12 +14,16 @@ status-website:
   cname: status.flc.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Flc-Status
+  name: Flc Status
   introTitle: "**Flc Status** is the uptime monitor and status page."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: Blog
+      href: https://flc.io
+    - title: Docs
+      href: https://docs.flc.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
