@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Flc Blog",
+    "url": "https://flc.io",
+    "icon": "https://favicons.githubusercontent.com/flc.io",
+    "slug": "flc-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Flc Doc",
+    "url": "https://docs.flc.io",
+    "icon": "https://favicons.githubusercontent.com/docs.flc.io",
+    "slug": "flc-doc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4557,
+    "timeDay": 4557,
+    "timeWeek": 4557,
+    "timeMonth": 4557,
+    "timeYear": 4557,
+    "dailyMinutesDown": {}
+  }
+]
