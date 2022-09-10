@@ -4,7 +4,7 @@
     "url": "https://flc.io",
     "icon": "https://favicons.githubusercontent.com/flc.io",
     "slug": "flc-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 219,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-10": 0
+    }
   },
   {
     "name": "Flc Docs",
