@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/flc.io",
     "slug": "flc-blog",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "98.24%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 203,
-    "timeDay": 176,
-    "timeWeek": 215,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 201,
+    "timeDay": 173,
+    "timeWeek": 212,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2022-09-10": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1212,
-    "timeDay": 1040,
-    "timeWeek": 899,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "time": 1186,
+    "timeDay": 847,
+    "timeWeek": 923,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {}
   }
 ]
