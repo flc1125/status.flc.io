@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/flc.io.ico",
     "slug": "flc-blog",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 226,
-    "timeDay": 298,
+    "uptimeYear": "99.97%",
+    "time": 227,
+    "timeDay": 290,
     "timeWeek": 243,
-    "timeMonth": 238,
-    "timeYear": 226,
+    "timeMonth": 239,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-09-10": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 1064,
-    "timeWeek": 855,
-    "timeMonth": 898,
-    "timeYear": 981,
+    "time": 980,
+    "timeDay": 972,
+    "timeWeek": 864,
+    "timeMonth": 894,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   }
 ]
