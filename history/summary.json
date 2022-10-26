@@ -4,10 +4,10 @@
     "url": "https://flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/flc.io.ico",
     "slug": "flc-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 227,
@@ -16,6 +16,7 @@
     "timeMonth": 235,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2022-10-26": 1,
       "2022-09-10": 25
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://docs.flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.flc.io.ico",
     "slug": "flc-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 885,
     "timeMonth": 888,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 0
+    }
   }
 ]
