@@ -25,19 +25,19 @@
     "url": "https://docs.flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.flc.io.ico",
     "slug": "flc-docs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 1095,
-    "timeDay": 4556,
-    "timeWeek": 1827,
-    "timeMonth": 1131,
-    "timeYear": 1095,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.94%",
+    "time": 1089,
+    "timeDay": 3278,
+    "timeWeek": 1705,
+    "timeMonth": 1118,
+    "timeYear": 1089,
     "dailyMinutesDown": {
-      "2022-10-26": 20
+      "2022-10-26": 47
     }
   }
 ]
