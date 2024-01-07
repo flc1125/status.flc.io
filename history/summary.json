@@ -6,17 +6,16 @@
     "slug": "flc-blog",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 390,
-    "timeDay": 369,
-    "timeWeek": 333,
-    "timeMonth": 320,
+    "timeDay": 365,
+    "timeWeek": 334,
+    "timeMonth": 328,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2024-01-06": 7,
       "2023-08-28": 63,
       "2023-08-07": 211,
       "2023-03-22": 75,
@@ -24,8 +23,7 @@
       "2023-03-20": 24,
       "2023-03-19": 96,
       "2023-03-18": 141,
-      "2023-03-17": 108,
-      "2023-01-07": 174
+      "2023-03-17": 108
     }
   },
   {
@@ -35,17 +33,16 @@
     "slug": "flc-docs",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1098,
-    "timeDay": 1923,
-    "timeWeek": 1321,
-    "timeMonth": 1051,
-    "timeYear": 1118,
+    "timeDay": 1905,
+    "timeWeek": 1316,
+    "timeMonth": 1062,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2024-01-06": 6,
       "2023-08-28": 70,
       "2023-08-07": 204,
       "2023-05-31": 21,
@@ -53,8 +50,7 @@
       "2023-03-21": 99,
       "2023-03-19": 103,
       "2023-03-18": 141,
-      "2023-03-17": 108,
-      "2023-01-07": 173
+      "2023-03-17": 108
     }
   }
 ]
