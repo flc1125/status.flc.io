@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 327,
-    "timeDay": 1120,
-    "timeWeek": 1119,
-    "timeMonth": 679,
-    "timeYear": 347,
+    "time": 329,
+    "timeDay": 1241,
+    "timeWeek": 1137,
+    "timeMonth": 713,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2024-08-28": 37
     }
@@ -26,17 +26,16 @@
     "slug": "flc-docs",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1045,
-    "timeDay": 3218,
-    "timeWeek": 1680,
-    "timeMonth": 1248,
-    "timeYear": 1022,
+    "time": 1046,
+    "timeDay": 3335,
+    "timeWeek": 1697,
+    "timeMonth": 1254,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2024-10-09": 10,
       "2024-08-28": 36
     }
   }
