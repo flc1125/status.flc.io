@@ -4,9 +4,9 @@
     "url": "https://flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/flc.io.ico",
     "slug": "flc-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 926,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-08-28": 37
     }
   },
@@ -26,9 +27,9 @@
     "slug": "flc-docs",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1052,
     "timeDay": 1096,
@@ -36,7 +37,6 @@
     "timeMonth": 1265,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2024-10-19": 10,
       "2024-08-28": 36
     }
   }
