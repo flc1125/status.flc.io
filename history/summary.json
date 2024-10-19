@@ -24,9 +24,9 @@
     "url": "https://docs.flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.flc.io.ico",
     "slug": "flc-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +36,7 @@
     "timeMonth": 1270,
     "timeYear": 1027,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-08-28": 36
     }
   }
