@@ -6,17 +6,16 @@
     "slug": "flc-blog",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 345,
-    "timeDay": 1220,
-    "timeWeek": 1109,
-    "timeMonth": 936,
-    "timeYear": 374,
+    "time": 347,
+    "timeDay": 1226,
+    "timeWeek": 1136,
+    "timeMonth": 966,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-10-19": 13,
       "2024-08-28": 37
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1052,
-    "timeDay": 1096,
-    "timeWeek": 1121,
-    "timeMonth": 1265,
-    "timeYear": 1028,
+    "time": 1053,
+    "timeDay": 1180,
+    "timeWeek": 1164,
+    "timeMonth": 1280,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2024-08-28": 36
     }
