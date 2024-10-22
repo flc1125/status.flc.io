@@ -4,18 +4,19 @@
     "url": "https://flc.io",
     "icon": "https://icons.duckduckgo.com/ip3/flc.io.ico",
     "slug": "flc-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 353,
+    "time": 354,
     "timeDay": 1107,
     "timeWeek": 1178,
     "timeMonth": 1032,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-08-28": 37
     }
   },
